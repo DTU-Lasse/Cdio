@@ -122,7 +122,7 @@ class Terningspil {
             }
 
         }
-
+// Set og godkendt af Jonas
 
 
 
